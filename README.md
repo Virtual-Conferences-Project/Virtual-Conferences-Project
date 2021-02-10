@@ -8,19 +8,19 @@ For comments or questions, please email me.
 
 
 
-### Introduction
+#### Introduction
 
 This repository contains scripts and data associated with the manuscript “Beyond the carbon footprint: Virtual conferences increase diversity, equity and inclusion.” The scripts process data for graphics and calculate the cost and carbon footprint of attendance for the ~7000 participants at the 2020 virtual meetings of the North American Membrane Society (NAMS), the International Conferences on Learning Representations (ICLR) and the American Astronomical Society (AAS) if the events had been held in-person at their originally planned locations. The script also calculates cost and carbon footprint for each participant to past in-person conferences for which data is available.
 
 
 
-### Data Sources
+#### Data Sources
 
 Facilitating this analysis is registration and survey data collected from three legacy-turned-virtual conferences, ICLR, AAS, and NAMS. These conferences represent varying fields and community sizes and allow for comparisons across a range of STEM backgrounds. Specific data collected include registration and abstract information, spanning information such as the number and type of participants (e.g., students, industry personnel), geographic participation, institution, or gender. Additional data collected on webinar attendance and virtual platform activity were used to assess the efficacy with which the virtual conferences distributed content to attendees. Qualitative data was collected by asking participants to fill out polls as well as pre-and-post conference surveys designed to interrogate the participant experience and field suggestions for improvement.
 
 
 
-### Methodology
+#### Methodology
 
 
 **Carbon Footprint of Attendance**
@@ -40,7 +40,7 @@ The scripts calculate cost of attendance for individual attendees to historicall
 The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file for later use in producing Tableau maps of attendee flight paths.
 
 
-### Results
+#### Results
 
 **Demographic Impact**
 **Figure 1** illustrates themes seen across all datasets. The elimination of the travel and cost burdens realized with the virtual conference format resulted in a large increase in attendance at all events. The increase in attendance was particularly pronounced for international attendees. This trend can be explained by the decrease in costs as compared to in-person conferences.
@@ -72,7 +72,7 @@ Conversely, the total carbon footprints of the 2020 virtual ICLR, AAS, and NAMS 
 **Fig. S9 |** Number of attendees in each oral session and total percent of registrants participating in oral sessions throughout the 2020 virtual NAMS conference. (Total number of registrants=635)
 
 
-## References
+#### References
 
 [1] The myclimate Flight Emission Calculator (Foundation myclimate, accessed October 30th,
 2020);  2019; https://www.myclimate.org/
