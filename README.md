@@ -45,13 +45,6 @@ The world_map data processing script takes participant origin coordinates and co
 ![All Days Attendees per Room v2_final_v4-1](https://user-images.githubusercontent.com/78470390/107473123-c6579780-6b35-11eb-8b11-6ffa0cb2bf92.png)
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-![alt text](https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/All Days Attendees per Room v2_final_v4.pdf?raw=true)
-
-![alt text](https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/fig_1ab_final_final_v1.pdf?raw=true)
-
-![fig_1ab_final_final_v1](https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/figures/fig_1ab_final_final_v1.pdf)
 
 ## References
 
