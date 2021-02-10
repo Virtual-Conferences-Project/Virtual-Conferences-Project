@@ -43,6 +43,7 @@ The world_map data processing script takes participant origin coordinates and co
 # Results
 
 **Demographic Impact**
+
 **Figure 1** illustrates themes seen across all datasets. The elimination of the travel and cost burdens realized with the virtual conference format resulted in a large increase in attendance at all events. The increase in attendance was particularly pronounced for international attendees. This trend can be explained by the decrease in costs as compared to in-person conferences.
 
 ![fig_1ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476172-f0f81f00-6b3a-11eb-9192-9d6d12b6b8e9.png)
