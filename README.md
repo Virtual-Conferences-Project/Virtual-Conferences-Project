@@ -42,10 +42,16 @@ The world_map data processing script takes participant origin coordinates and co
 
 ### Results
 ![fig_1ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476172-f0f81f00-6b3a-11eb-9192-9d6d12b6b8e9.png)
-![fig_2abc_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476178-f3f30f80-6b3a-11eb-8fb7-41efa79cd262.png)
-![fig_6ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476185-f6ee0000-6b3a-11eb-884c-0dbea9841d8c.png)
-![All Days Attendees per Room v2_final_v4-1](https://user-images.githubusercontent.com/78470390/107473123-c6579780-6b35-11eb-8b11-6ffa0cb2bf92.png)
+**Fig 1 | 2020 virtual conferences were larger as well as more economically and geographically equitable than historical in-person conferences. (a)** The delegation for the 2019 in-person ICLR was global, but concentrated in the United States (n=2584). **(b)** The delegation for the 2020 virtual ICLR was larger and more geographically diverse than the 2019 in-person ICLR delegation and would have resulted in a larger number of attendees emitting greater amounts of carbon emissions if it had been held in the originally planned on-site location in Ethiopia (n=4980)
 
+![fig_2abc_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476178-f3f30f80-6b3a-11eb-8fb7-41efa79cd262.png)
+**Fig 2 | (a)** Regional average cost of attendance to legacy (Leg) in-person conferences as a percent of attendee country’s GDP per capita for ICLR (n=2), AAS (n=4), and NAMS (n=4) conferences was significantly higher for African participants, and very low for US participants. **(b)** The delegations for 2020 virtual ICLR (n=1), AAS (n=1), and NAMS (n=1) conferences generally represented more countries that were not in the top ten research countries as defined by the Nature Index12 (NI>10) and included a higher number of attendees from those countries compared to the average delegations from legacy conferences. **(c)** Average registration, food, hotel, and travel costs for a single attendee to past in-person ICLR (n=2), AAS (n=4), and NAMS (n=4) conferences totaled thousands of USD, compared to less than 200 USD for 2020 virtual ICLR (n=1), AAS (n=1), and NAMS (n=1) conferences.
+
+![fig_6ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476185-f6ee0000-6b3a-11eb-884c-0dbea9841d8c.png)
+**Fig. 6 | The cost and carbon footprint of in-person conferences are significant, increasing and inequitable. (a)** The total summed carbon footprints of air travel and accommodation for all attendees to past in-person ICLR, AAS, and NAMS conferences increased over time and the hypothetical 2020 in-person conference footprint (dotted line), calculated as the footprint if all virtual conference participants had attended an in-person conference at the originally chosen location, was far greater than any previous conferences, while virtual 2020 conferences had near zero footprint. **(b)** The average carbon footprint of attendance for domestic and international participants to the most recent in-person conferences (2019) (n=1 for ICLR, AAS, and NAMS) were significant compared to the proposed median global per capita annual carbon budgets for 2030 and 2050 in a collection of proposed decarbonization pathways designed to limit global warming to 1.5 C with a small overshoot19. 
+
+![All Days Attendees per Room v2_final_v4-1](https://user-images.githubusercontent.com/78470390/107473123-c6579780-6b35-11eb-8b11-6ffa0cb2bf92.png)
+**Fig. S9 |** Number of attendees in each oral session and total percent of registrants participating in oral sessions throughout the 2020 virtual NAMS conference. (Total number of registrants=635)
 
 
 ## References
