@@ -8,7 +8,7 @@ For comments or questions, please email me.
 
 
 
-### Introduction
+###### Introduction
 
 This repository contains scripts and data associated with the manuscript “Beyond the carbon footprint: Virtual conferences increase diversity, equity and inclusion.” The scripts process data for graphics and calculate the cost and carbon footprint of attendance for the ~7000 participants at the 2020 virtual meetings of the North American Membrane Society (NAMS), the International Conferences on Learning Representations (ICLR) and the American Astronomical Society (AAS) if the events had been held in-person at their originally planned locations. The script also calculates cost and carbon footprint for each participant to past in-person conferences for which data is available.
 
