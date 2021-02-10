@@ -44,7 +44,7 @@ The world_map data processing script takes participant origin coordinates and co
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-
+! [alt text] (https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/All%20Days%20Attendees%20per%20Room%20v2_final_v4.pdf)
 ## References
 
 [1] The myclimate Flight Emission Calculator (Foundation myclimate, accessed October 30th,
