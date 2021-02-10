@@ -41,7 +41,9 @@ The world_map data processing script takes participant origin coordinates and co
 
 
 ### Results
-
+![fig_1ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476172-f0f81f00-6b3a-11eb-9192-9d6d12b6b8e9.png)
+![fig_2abc_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476178-f3f30f80-6b3a-11eb-8fb7-41efa79cd262.png)
+![fig_6ab_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476185-f6ee0000-6b3a-11eb-884c-0dbea9841d8c.png)
 ![All Days Attendees per Room v2_final_v4-1](https://user-images.githubusercontent.com/78470390/107473123-c6579780-6b35-11eb-8b11-6ffa0cb2bf92.png)
 
 
