@@ -1,8 +1,8 @@
-** **Matthew Skiles
+**Matthew Skiles**
 
 Department of Civil, Architectural, and Environmental Engineering, University of Texas at Austin
 
-mskiles@utexas.edu
+*mskiles@utexas.edu*
 
 For comments or questions, please email me.
 
