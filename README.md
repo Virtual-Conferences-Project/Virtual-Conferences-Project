@@ -25,26 +25,26 @@ Facilitating this analysis is registration and survey data collected from three 
 # Methodology
 
 
-**Carbon Footprint of Attendance**
+### Carbon Footprint of Attendance ###
 
 Scripts included in this repository were written to estimate the carbon footprint of three legacy-turned-virtual conferences. For each conference, the footprint was calculated for past conferences where data was available and for the 2020 virtual conference delegation if the event had been held in-person at the originally planned location. The carbon footprint of conference attendees was calculated as the cumulative emissions associated with the flights and hotel stays of conference participants. The script utilizes the origin location given by each attendee and uses an API to calculate the travel distance from the origin to the conference location and converts distance traveled to greenhouse gas emissions according to the methodology for the myclimate air travel emissions calculator1.  Based on attendee-specific sociodemographic data, the scripts also calculate carbon footprint per night for the attendee hotel stay using the Hotel Carbon Measurement Initiative (HCMI) rooms footprint per occupied room from the Hotel Sustainability Benchmarking Tool published by the Cornell Center of Hospitality Research2. The scripts fill missing data with average values and incorporate various assumptions i.e. students shared rooms, local attendees did not stay in hotels, etc.
 
 
 
-**Cost of Attendance**
+### Cost of Attendance ###
 
 The scripts calculate cost of attendance for individual attendees to historically in-person turned virtual conferences by calculating their cost of travel based on air travel distance and summing with the estimated cost of the hotel, food, and conference registration fees. Travel cost was calculated as the one-way air travel distance multiplied by the cost distance for air travel defined in3, and doubled to represent the cost of a round trip flight. To account for a potential overestimate of travel cost, a sensitivity analysis where the one-way flight cost is multiplied by 1.5 instead of 2 was conducted. Registration, hotel and food costs were taken from conference records or estimated based on relevant sources. The scripts fill missing data with average values and incorporate various assumptions i.e. local attendees do not have food costs, students shared rooms, etc. The scripts calculate cost of attendance to 2020 virtual events as the cost of registration for the virtual events as outlined in conference records.
 
 
 
-**World Map Data Processing**
+### World Map Data Processing ###
 
 The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file for later use in producing Tableau maps of attendee flight paths.
 
 
 # Results
 
-**Demographic Impact**
+### Demographic Impact ###
 
 **Figure 1** illustrates themes seen across all datasets. The elimination of the travel and cost burdens realized with the virtual conference format resulted in a large increase in attendance at all events. The increase in attendance was particularly pronounced for international attendees. This trend can be explained by the decrease in costs as compared to in-person conferences.
 
@@ -58,7 +58,7 @@ By eliminating these travel and registration costs, the 2020 virtual ICLR, AAS a
 ![fig_2abc_final_final_v1-1](https://user-images.githubusercontent.com/78470390/107476178-f3f30f80-6b3a-11eb-8fb7-41efa79cd262.png)
 **Fig 2 | (a)** Regional average cost of attendance to legacy (Leg) in-person conferences as a percent of attendee country’s GDP per capita for ICLR (n=2), AAS (n=4), and NAMS (n=4) conferences was significantly higher for African participants, and very low for US participants. **(b)** The delegations for 2020 virtual ICLR (n=1), AAS (n=1), and NAMS (n=1) conferences generally represented more countries that were not in the top ten research countries as defined by the Nature Index12 (NI>10) and included a higher number of attendees from those countries compared to the average delegations from legacy conferences. **(c)** Average registration, food, hotel, and travel costs for a single attendee to past in-person ICLR (n=2), AAS (n=4), and NAMS (n=4) conferences totaled thousands of USD, compared to less than 200 USD for 2020 virtual ICLR (n=1), AAS (n=1), and NAMS (n=1) conferences.
 
-**Environmental Impact**
+### Environmental Impact ###
 
 The carbon footprints of in-person conferences was defined as the warming potential in CO2 equivalents (CO2e) of the sum total of GHG emitted by the hotel stays and air travel of all conference participants. This value was dominated by air travel emissions and has increased over time **(Figure 6a, 6b)**. Given the increase in attendees at the virtual conferences, both absolute numbers and international participation, the theoretical GHG emissions for the 2020 virtual conferences would have significantly increased if they were held in-person. However, as expected, carbon footprints were practically negligible for online conferences.
 
