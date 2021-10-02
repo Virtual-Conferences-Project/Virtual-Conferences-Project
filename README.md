@@ -1,4 +1,4 @@
-# Conference Demographics and Footprint Changed by Virtual Conferences
+# Conference Demographics and Footprint Changed by Virtual Platforms
 
 **Matthew Skiles**
 
