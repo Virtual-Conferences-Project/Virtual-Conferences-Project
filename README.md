@@ -1,10 +1,10 @@
 # Conference Demographics and Footprint Changed by Virtual Platforms
 
-**Matthew Skiles**
+**Dr. Manish Kumar**
 
 The University of Texas at Austin
 
-*mskiles@utexas.edu*
+*manish.kumar@utexas.edu*
 
 For comments or questions, please email me.
 
