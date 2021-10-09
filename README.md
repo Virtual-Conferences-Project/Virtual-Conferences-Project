@@ -40,7 +40,7 @@ The scripts calculate cost of attendance for individual attendees to historicall
 
 ### World Map Data Processing ###
 
-The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file for later use in producing Tableau maps of attendee flight paths.
+The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file4 for later use in producing Tableau maps of attendee flight paths.
 
 
 # Results
@@ -86,4 +86,6 @@ carbon. Cornell Hospitality Reports: Cornell University; 2015.
 
 [3] Dudas G, Boros L, Pal V, Pernyesz P. Mapping cost distance using air traffic data. J Maps
 2016, 12(4): 695-700.
+
+[4] Battersby, S. & F. Ramseger. 2017. Flights of the World: How to map great circle routes in Tableau 10.4.
 
