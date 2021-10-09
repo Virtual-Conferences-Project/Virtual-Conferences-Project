@@ -1,6 +1,6 @@
 # Conference Demographics and Footprint Changed by Virtual Platforms
 
-**Dr. Manish Kumar**
+**Corresponding Author Dr. Manish Kumar**
 
 The University of Texas at Austin
 
