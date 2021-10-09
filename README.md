@@ -40,7 +40,7 @@ The scripts calculate cost of attendance for individual attendees to historicall
 
 ### World Map Data Processing ###
 
-The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file<sup></sup>4 for later use in producing Tableau maps of attendee flight paths.
+The world_map data processing script takes participant origin coordinates and conference coordinates and incorporates them a great circle distance paths in a kml file<sup>4</sup> for later use in producing Tableau maps of attendee flight paths.
 
 
 # Results
