@@ -51,6 +51,10 @@ The world_map data processing script takes participant origin coordinates and co
 
 ![Fig 1abcde 20211008 attributed v3](https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf)
 
+!(https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf)
+
+(https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf)
+
 https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf
 
 
