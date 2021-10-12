@@ -49,7 +49,7 @@ The world_map data processing script takes participant origin coordinates and co
 
 **Figure 1** illustrates themes seen across all datasets. The elimination of the travel and cost burdens realized with the virtual conference format resulted in a large increase in attendance at all events. The increase in attendance was particularly pronounced for international attendees. This trend can be explained by the decrease in costs as compared to in-person conferences.
 
-![Fig 1abcde 20211008 attributed v3] (https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf)
+![Fig 1abcde 20211008 attributed v3](https://github.com/Virtual-Conferences-Project/Virtual-Conferences-Project/blob/main/figures/Fig%201abcde%2020211008%20attributed%20v3.pdf)
 
 **Fig 1 | 2020 virtual conferences were larger as well as more economically and geographically equitable than historical in-person conferences. (a)** The delegation for the 2019 in-person ICLR was global, but concentrated in the United States (n=2584). **(b)** The delegation for the 2020 virtual ICLR was larger and more geographically diverse than the 2019 in-person ICLR delegation and would have resulted in a larger number of attendees emitting greater amounts of carbon emissions if it had been held in the originally planned on-site location in Ethiopia (n=4980)
 
