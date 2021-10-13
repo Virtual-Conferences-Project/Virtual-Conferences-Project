@@ -55,23 +55,23 @@ By eliminating these travel and registration costs, the 2020 virtual ICLR, AAS a
 
 ### Environmental Impact ###
 
-The carbon footprints of in-person conferences was defined as the warming potential in CO<sub>2</sub> equivalents (CO2e) of the sum total of GHG emitted by the hotel stays and air travel of all conference participants. This value was dominated by air travel emissions and has increased over time **(Figure S2a, S2b)**. Given the increase in attendees at the virtual conferences, both absolute numbers and international participation, the theoretical GHG emissions for the 2020 virtual conferences would have significantly increased if they were held in-person. However, as expected, carbon footprints were practically negligible for online conferences.
+The carbon footprints of in-person conferences was defined as the warming potential in CO<sub>2</sub> equivalents (CO<sub>2</sub>e) of the sum total of GHG emitted by the hotel stays and air travel of all conference participants. This value was dominated by air travel emissions and has increased over time **(Figure S2a, S2b)**. Given the increase in attendees at the virtual conferences, both absolute numbers and international participation, the theoretical GHG emissions for the 2020 virtual conferences would have significantly increased if they were held in-person. However, as expected, carbon footprints were practically negligible for online conferences.
 
-As shown in **Figure S2b**, the carbon footprint for a single international attendee to the 2019 in-person ICLR, AAS or NAMS conferences is approaching the median global per capita carbon budget (3.26 tonnes CO2e) for the entire year of 2030 in a collection of proposed decarbonization pathways designed to limit global warming to 1.5 C with a small overshoot19. Therefore, the carbon footprint of a single attendee to an in-person conference is a substantial fraction of the recommended per capita annual carbon budgets, and many attendees attend multiple international events per year. For further context, the ~2.5 tons of CO2e emissions caused by an international attendee to one of these in-person conferences is roughly equivalent to the footprint of an average US passenger vehicle traveling ~10,000 km20.
+As shown in **Figure S2b**, the carbon footprint for a single international attendee to the 2019 in-person ICLR, AAS or NAMS conferences is approaching the median global per capita carbon budget (3.26 tonnes CO<sub>2</sub>e) for the entire year of 2030 in a collection of proposed decarbonization pathways designed to limit global warming to 1.5 C with a small overshoot<sup>5</sup>. Therefore, the carbon footprint of a single attendee to an in-person conference is a substantial fraction of the recommended per capita annual carbon budgets, and many attendees attend multiple international events per year. For further context, the ~2.5 tons of CO2e emissions caused by an international attendee to one of these in-person conferences is roughly equivalent to the footprint of an average US passenger vehicle traveling ~10,000 km20.
 
-Conversely, the total carbon footprints of the 2020 virtual ICLR, AAS, and NAMS conferences were 0.80, 0.17, and 0.10 tonnes CO2e, respectively, calculated as the GHG emitted due to computer processing13. The carbon footprints for 2020 virtual ICLR, AAS, and NAMS conferences represent only 0.005%, 0.013%, and 0.012% of the emissions that would have been released if the same delegation for the virtual events had attended in-person conferences at the originally planned locations. For further context, the cumulative footprints of the more than 7000 attendees to 2020 virtual ICLR, AAS, and NAMS conferences (1.07 tonnes CO2e) was comparable to the average footprint of a single attendee to one of these 2019 in-person conferences **(Figure S2b)**.
+Conversely, the total carbon footprints of the 2020 virtual ICLR, AAS, and NAMS conferences were 0.80, 0.17, and 0.10 tonnes CO<sub>2</sub>e, respectively, calculated as the GHG emitted due to computer processing<sup>6</sup>. The carbon footprints for 2020 virtual ICLR, AAS, and NAMS conferences represent only 0.005%, 0.013%, and 0.012% of the emissions that would have been released if the same delegation for the virtual events had attended in-person conferences at the originally planned locations. For further context, the cumulative footprints of the more than 7000 attendees to 2020 virtual ICLR, AAS, and NAMS conferences (1.07 tonnes CO2e) was comparable to the average footprint of a single attendee to one of these 2019 in-person conferences **(Figure S2b)**.
 
 
 # References
 
-[1] The myclimate Flight Emission Calculator (Foundation myclimate, accessed October 30th,
-2020);  2019; https://www.myclimate.org/
+[1] The myclimate Flight Emission Calculator (Foundation myclimate, accessed October 30th, 2020);  2019; https://www.myclimate.org/
 
-[2] Chong HG, Ricaurte EE. Hotel sustainability benchmarking tool 2015: energy, water, and
-carbon. Cornell Hospitality Reports: Cornell University; 2015.
+[2] Chong HG, Ricaurte EE. Hotel sustainability benchmarking tool 2015: energy, water, and carbon. Cornell Hospitality Reports: Cornell University; 2015.
 
-[3] Dudas G, Boros L, Pal V, Pernyesz P. Mapping cost distance using air traffic data. J Maps
-2016, 12(4): 695-700.
+[3] Dudas G, Boros L, Pal V, Pernyesz P. Mapping cost distance using air traffic data. J Maps 2016, 12(4): 695-700.
 
 [4] Battersby, S. & F. Ramseger. 2017. Flights of the World: How to map great circle routes in Tableau 10.4.
 
+[5] Rogelj, J. et al. in Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty. (eds. V. Masson-Delmotte et al.) (2018).
+
+[6] Klöwer, M., Hopkins, D., Allen, M. & Higham, J. An analysis of ways to decarbonize conference travel after COVID-19. Nature 583 (2020).
