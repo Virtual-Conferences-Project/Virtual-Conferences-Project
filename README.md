@@ -9,7 +9,6 @@ The University of Texas at Austin
 
 For comments or questions, please email me.
 
-https://zenodo.org/badge/335550888.svg
 
 # Introduction
 
