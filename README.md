@@ -1,4 +1,4 @@
-# Conference Demographics and Footprint Changed by Virtual Platforms
+# Conference demographics and footprint changed by virtual platforms
 
 **Corresponding Author:** 
 **Dr. Manish Kumar**
